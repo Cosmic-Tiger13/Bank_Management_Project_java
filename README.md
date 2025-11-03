@@ -1,6 +1,6 @@
 # 🏦BANK MANAGEMENT PROJECT w/ JAVA
 
-![alt text](/src/Login.png)
+![alt text](/images/Login.png)
 
 The Bank Management System is a Java-based desktop application designed to simulate essential banking operations and manage user accounts securely. It allows users to create new accounts, log in, and perform various banking activities such as deposits, withdrawals, and balance checks. The system also supports quick transactions, mini statements, and PIN management, making it a complete simulation of basic ATM and banking functionalities.
 
@@ -10,7 +10,7 @@ concepts, **Swing-based GUI design**, and **JDBC-based MySQL connectivity**. It 
 
 ## 💡 Features
 
-![alt text](/src/Interface.png)
+![alt text](/images/Interface.png)
 
 - Secure user Login and Signup system
 
@@ -18,11 +18,11 @@ concepts, **Swing-based GUI design**, and **JDBC-based MySQL connectivity**. It 
 
 - Fast Cash and Mini Statement options for quick transactions
 
-![alt text](/src/Deposit.png) ![alt text](/src/Fast_cash.png)
+![alt text](/images/Deposit.png) ![alt text](/images/Fast_cash.png)
 
 - PIN Change option to maintain account security
 
-![alt text](/src/Pin_change.png)
+![alt text](/images/Pin_change.png)
 
 - Transaction records stored securely in a MySQL database
 
@@ -73,5 +73,6 @@ Through this project, learners gain practical insight into how banking software 
 ### **📘 Project Type**: Java Desktop Application
 
 ### **🗄️ Database**: MySQL
+
 
 ### **💻 Version:** 1.0
